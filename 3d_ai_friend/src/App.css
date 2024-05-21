@@ -1,0 +1,50 @@
+canvas{
+    width: 100vw;
+    height: 100vh;
+}
+body{
+    background-color: black;
+}
+
+.wel-h1{
+    color: #ffffff;
+}
+
+.wel-spa{
+    color: #f6bc71;
+    font-size: xx-large;
+}
+.ui-row{
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+}
+
+.input-row {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+.input-textarea {
+    width: 400px;
+    height: 50px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    resize: vertical; /* Allow vertical resizing */
+}
+
+.submit-button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.submit-button:hover {
+    background-color: #0056b3;
+}

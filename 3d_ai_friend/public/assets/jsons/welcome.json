@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "soundFile": "E:\\Courses\\Full_Stack_JavaScript_Course\\ReactJS\\3D_React_website\\test-3d\\public\\sounds\\welcome.ogg",
+    "duration": 1.80
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.04, "value": "X" },
+    { "start": 0.04, "end": 0.10, "value": "F" },
+    { "start": 0.10, "end": 0.23, "value": "C" },
+    { "start": 0.23, "end": 0.37, "value": "B" },
+    { "start": 0.37, "end": 0.47, "value": "A" },
+    { "start": 0.47, "end": 0.84, "value": "F" },
+    { "start": 0.84, "end": 1.12, "value": "B" },
+    { "start": 1.12, "end": 1.26, "value": "F" },
+    { "start": 1.26, "end": 1.40, "value": "E" },
+    { "start": 1.40, "end": 1.47, "value": "B" },
+    { "start": 1.47, "end": 1.80, "value": "X" }
+  ]
+}
